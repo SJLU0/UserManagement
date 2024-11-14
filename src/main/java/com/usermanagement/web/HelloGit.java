@@ -17,6 +17,8 @@ public class HelloGit {
 		System.out.println("11/14 22:20新增");
 		
 		System.out.println("創建分支後，合併進主幹master");
+		
+		System.out.println("添加分支 dev");
 	}
 
 }
